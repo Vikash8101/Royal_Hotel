@@ -13,3 +13,5 @@ You can try the Music Player live : http://vikashpathak.tech/Royal_Hotel/
 
 ## Features
 - Interactive GUI
+- Responsive graphical interface
+  
